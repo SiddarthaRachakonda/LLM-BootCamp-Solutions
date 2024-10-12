@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+langchain
+langserve
+sqlalchemy
+pydantic
+sse-starlette
+requests
+pinecone-client[grpc]
+langchain_huggingface
+langchain_core
+langchain_community
+langchain_openai
+transformers
+
